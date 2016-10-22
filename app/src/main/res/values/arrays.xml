@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modes">
+        <item>Please choose the time interval</item>
+        <item>Today</item>
+        <item>Last 3 days</item>
+        <item>Last 1 week</item>
+        <item>Last 1 month</item>
+    </string-array>
+</resources>
